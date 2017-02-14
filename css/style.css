@@ -1,14 +1,14 @@
-@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Freckle+Face');
 @import url('https://fonts.googleapis.com/css?family=Varela+Round');
 
 .hero{
   height: 600px;
-  background-image: url("../images/sun.jpg");
+  background-image: url("../images/tech.jpg");
   background-size: cover;
   background-attachment: fixed;
 }
 .frost-glass{
-  background-image: url("../images/sun.jpg");
+  background-image: url("../images/tech.jpg");
   background-attachment: fixed;
   background-size: cover;
   border-radius: 5px;
@@ -23,7 +23,7 @@
 .border{
   display: block;
   margin: auto;
-  margin-top: 15px;
+  margin-top: -125px;
   width: 40%;
 }
 .statement{
@@ -31,7 +31,7 @@
   padding-top: 10px;
   font-size: 80px;
   font-weight: 700;
-  font-family: 'Lobster', cursive;
+  font-family: 'Freckle Face', cursive;
   width: 400px;
   text-align: center;
   margin: 0 auto;
